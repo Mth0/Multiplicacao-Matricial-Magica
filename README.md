@@ -1,0 +1,1 @@
+O trabalho consiste em redefinir as operações de soma e produto para solucionar diferentes problemas via multiplicação de matrizes. Alguns exemplos são dados no arquivo, mas certamente não são os únicos.
