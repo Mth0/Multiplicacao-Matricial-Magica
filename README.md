@@ -125,3 +125,20 @@ $$\bigvee_{i=0}^{5}G^{i}$$
 # Linguagens Formais e Teoria do Autômatos
 
 Esta seção no momento está somente no pdf, que tenta se aprofundar um pouco mais na teoria dessa área. Recomendo a leitura deste para um melhor entendimento. Recomendo também a leitura da parte de semianéis e ponto fixo, linguajar usado nesta seção.
+
+# Referências
+
+[1] Stephen Dolan. Fun with semirings: A functional pearl on the abuse of linear
+algebra. In Proceedings of the 18th ACM SIGPLAN International Conference
+on Functional Programming, ICFP ’13, page 101–110, New York, NY, USA,
+2013. Association for Computing Machinery.
+
+[2] Franz Christian Ebert. Cfg parsing and boolean matrix multiplication. 2007.
+
+[3] Dick Grune and Ceriel J. H. Jacobs. Parsing Techniques - A Practical Guide.
+Monographs in Computer Science. Springer, 2008.
+
+[4] ”Bogumił Kamiński”. ”what is the shortest path to alphatensor?”.
+
+[5] Daniel J. Lehmann. Algebraic structures for transitive closure. Theoretical
+Computer Science, 4(1):59–76, 1977.
