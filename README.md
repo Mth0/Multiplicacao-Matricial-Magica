@@ -1,6 +1,8 @@
 # Introdução
 
-O trabalho consiste em redefinir as operações de soma e produto para solucionar diferentes problemas via multiplicação de matrizes. Alguns exemplos são dados, mas certamente não são os únicos. O arquivo em pdf detalha mais um pouco algumas coisas, mas esta leitura já é o suficiente.
+Existem inúmeros problemas de alto interesse em se desenvolver soluções, porém o que muitas vezes pode passar batido é que problemas distintos podem ser bem mais parecidos do que se pode achar, em primeiro momento. Nesses casos seria interessante de algum modo tirar proveito disto, de suas estruturas parecidas e buscar gerar um algoritmo mais genérico possível de modo que ambos possam ser solucionados o usando com o mínimo de alterações. Isso expõe ligações entre problemas que antes poderiam parecer ocultas e serve como base para futuros problemas que compartilhem essa mesma estrutura.
+
+O trabalho consiste em explorar essa ideia de construcção de algoritmos genéricos simplesmente redefinindo as operações de soma e produto para multiplicação de matrizes. Alguns exemplos são dados, mas certamente não são os únicos. O arquivo em pdf detalha mais um pouco algumas coisas, inclusive trazendo um pouco mais de teoria, mas esta leitura já é o suficiente.
 
 # Multiplicação matricial convencional
 
@@ -119,3 +121,7 @@ $$\bigvee_{i=0}^{+\infty}G^{i}$$
 Novamente, por sorte o maior caminho, sem entrar em ciclos, é 5, então essa soma pode ser reduzida para
 
 $$\bigvee_{i=0}^{5}G^{i}$$
+
+# Linguagens Formais e Teoria do Autômatos
+
+Esta seção no momento está somente no pdf, que tenta se aprofundar um pouco mais na teoria dessa área. Recomendo a leitura deste para um melhor entendimento. Recomendo também a leitura da parte de semianéis e ponto fixo, linguajar usado nesta seção.
